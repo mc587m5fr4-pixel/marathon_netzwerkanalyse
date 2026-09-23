@@ -1,0 +1,138 @@
+id,name ,type ,sex ,country ,club 
+tokyo2023,Tokyo Marathon 2023,2,,JPN,
+tokyo2024,Tokyo Marathon 2024,2,,JPN,
+tokyo2025,Tokyo Marathon 2025,2,,JPN,
+nyc2023,New York City Marathon 2023,2,,USA,
+nyc2024,New York City Marathon 2024,2,,USA,
+nyc2025,New York City Marathon 2025,2,,USA,
+chicago2023,Chicago Marathon 2023,2,,USA,
+chicago2024,Chicago Marathon 2024,2,,USA,
+chicago2025,Chicago Marathon 2025,2,,USA,
+london2023,London Marathon 2023,2,,ENG,
+london2024,London Marathon 2024,2,,ENG,
+london2025,London Marathon 2025,2,,ENG,
+boston2023,Boston Marathon 2023,2,,USA,
+boston2024,Boston Marathon 2024,2,,USA,
+boston2025,Boston Marathon 2025,2,,USA,
+berlin2025,Berlin Marathon 2025,2,,GER,
+berlin2024,Berlin Marathon 2024,2,,GER,
+berlin2023,Berlin Marathon 2023,2,,GER,
+wm2025,Weltmeisterschaft Japan,2,,JPN,
+wm2023,Weltmeisterschaft Ungarn,2,,HUN,
+olymp2024,Olympische Spiele Frankreich,2,,FRA,
+olymp2021,Olympische Spiele Japan,2,,JPN,
+sasab,Sabastian Saw,1,m,KEN,2 Running Club
+akaki,Akira Akasaki,1,m,JPN,Kyu Denko
+dechi,Chimdessa Debele,1,m,ETH,no
+adguy,Guye Adola,1,m,ETH,no
+uryuh,Yuhei Urano ,1,m,JPN,Fujitsu
+waros,Rosemary Wanjiru ,1,w,KEN,no
+dider,Dera Dida,1,w,ETH,no
+geazm,Azmera Gebru ,1,w,ETH,no
+chvio,Viola Cheptoo,1,w,KEN,no
+wofan,Fantu Worku,1,w,ETH,no
+memil,Milkesa Mengesha,1,m,ETH,Sebeta Club
+kocyb,Cybrian Kotut,1,m,KEN,2 Running Club
+alhay,Haymanot Alew,1,m,ETH,dsm-firmenich Running Team
+kiste,Stephen Kiprop,1,m,KEN,no
+kihai,Hailemariyam Kiros,1,m,ETH,no
+ketig,Tigist Ketema,1,w,ETH,no
+fimes,Mestawot Fikir,1,w,ETH,no
+mubos,Bosena Mulatie,1,w,ETH,no
+muabe,Aberu Ayana Mulisa,1,w,ETH,no
+hoai,Ai Hosoda,1,w,JPN,Edion
+kieli,Eliud Kipchoge,1,m,KEN,dam-firmenich Running Team
+kivin,Vincent Kipkemoi,1,m,KEN,no
+tatad,Tadese Takele,1,m,ETH,no
+koron,Ronald Korir,1,m,KEN,no
+tehaf,Haftu Teklu,1,m,ETH,no
+chshe,Sheila Chepkirui,1,w,KEN,no
+shmag,Magdalena Shauri,1,w,TAN,Arusha Club
+yizei,Zeineba Yimer,1,w,ETH,no
+tesen,Senbere Teferi,1,w,ETH,no
+jeper,Peres Jepchichir,1,w,KEN,adidas
+pajul,Julia Paternain,1,w,URU,McKirdy Trained
+sialp,Alphonce Simbu,1,m,TAN,ASICS
+peama,Amanal Petros,1,m,GER,Hannover 96
+aoili,Iliass Aouani,1,m,ITA,G.S. Fiamme Azzurre
+kivic,Victor Kiplangat,1,m,UGA,NN Running Team
+temar, Maru Teferi,1,m,ISR,dsm-firmenich Running Team
+geleu,"Leul Gebresilase,",1,m,ETH,NN Running Team
+shama,Amane Shankule,1,w,ETH,Trainingsgruppe Gemedu Dedefo
+gegot,Gotytom Gebreslase,1,w,ETH,Elite Running Team
+gafat,Fatima Gardadi,1,w,MAR,Moroccan Royal Guard
+totam,Tamirat Tola,1,m,ETH,Oromia Police Club
+abbas,Bashir Abdi,1,m,BEL,KRC Gent
+kiben,Benson Kipruto,1,m,KEN,2 Running Club
+hasif,Sifan Hassan,1,w,NED,Eindhoven Atletiek
+astig, Tigst Assefa,1,w,ETH,Trainingsgruppe Gemedu Dedefo
+obhel, Hellen Obiri,1,w,KEN,On Athletics Club
+kobri, Brigid Kosgei,1,w,KEN,no
+semol,Molly Seidel,1,w,USA,Satisfy Pro Team
+naabd, Abdi Nageeye,1,m,NED,NN Running Team
+geder, Deresa Geleta,1,m,ETH,Elite Running Team
+kesut, Sutume Asefa Kebede,1,w,ETH,On Athletics Club
+mowin,Winfridah Moraa Moseti,1,w,KEN,ASICS
+fehaw, Hawi Feysa,1,w,ETH,no
+kitim," Timothy Kiplagat,",1,m,KEN,no
+gedes,Deso Gelmisa,1,m,ETH,Elite Running Team
+esmoh, Mohamed Esa,1,m,ETH,NN Running Team
+getse, Tsegaye Getachew,1,m,ETH,ASICS
+beash, Ashete Bekere,1,w,ETH,NN Running Team
+kitit,Titus Kipruto,1,m,KEN,2 Running Club
+lecam, Cameron Levins,1,m,CAN,ASICS
+edwor, Worknesh Edesa,1,w,ETH,Trainingsgruppe Gemedu Dedefo
+sabet," Betsy Saina,",1,w,USA,ASICS
+ummul, Mulugeta Asefa Uma,1,m,ETH,ASICS
+mamag, Magdalyne Masai,1,w,KEN,ASICS
+kojoh,John Korir,1,m,KEN,no
+macon, Conner Mantz,1,m,USA,Run Elite Program
+edmuk,Muktar Edris,1,m,ETH,no
+losha, Sharon Lokedi,1,w,KEN,UA Mission Run Dark Sky Distance
+yeyal, Yalemzerf Yehualaw,1,w,ETH,no
+chire,Irene Cheptai,1,w,KEN,no
+beama, Amane Beriso,1,w,ETH,Trainingsgruppe Gemedu Dedefo
+lesis,Sisay Lemma,1,m,ETH,no
+cheva, Evans Chebet,1,m,KEN,no
+koalb, Albert Korir,1,m,KEN,no
+kiedn, Edna Kiplagat,1,w,KEN,Kimbia Athletics
+dibuz,Buze Diriba,1,w,ETH,Trainingsgruppe Gemedu Dedefo
+gegab,Gabriel Geay,1,m,TAN,Talent Club of Arusha
+tazou, Zouhair Talbi,1,m,MAR,Running Team Schweighouse
+salon, Lonah Chemtai Salpeter,1,w,ISR,Maccabi Tel Aviv / NN Running Team
+yeaba,Ababel Yeshaneh,1,w,ETH,no
+baemm,Emma Bates,1,w,USA,Idaho Distance Project
+shkit, Kitata Shura ,1,m,ETH,Elite Running Team 
+konae,Naert Konae,1,m,BEL,no
+gilet, Letesenbet Gidey,1,w,ETH,dsm-firmenich Running Team
+ngmar,Mary Ngugi,1,w,KEN,no
+kageo,Geoffrey Kamworor,1,m,KEN,dsm-firmenich Running Team
+chviv,Vivian Cheruiyot,1,w,KEN,PACE Sports Management
+cheun,Eunice Chumba,1,w,BHR,no
+scfab, Fabienne Schlumpf,1,w,CHE,no
+muale, Alexander Mutiso,1,m,KEN,ND Soft Athletic Club
+depat,Patrick Dever,1,m,GBR,Puma Elite Running-Team
+kymat, Matthias Kyburz,1,m,CHE,no
+rejoe, Joel Reichow,1,m,USA, Minnesota Distance Elite
+okfio, Fiona O'Keeffe,1,w,USA,no
+frann, Annie Frisbie,1,w,USA,no
+kikel," Kelvin Kiptum,",1,m,KEN,no
+tuabd,Seifu Tura Abdiwak,1,m,ETH,no
+chrut,Ruth Chepngetich,1,w,KEN,no
+almeg, Megertu Alemu,1,w,ETH,no
+jejoy,Joyciline Jepkosgei,1,w,KEN,no
+tenar, Tadu Teshome Nare,1,w,ETH,Nedbank Running Club
+eshus, Huseydin Mohamed Esa,1,m,ETH,NN Running Team
+kiamo,Amos Kipruto,1,m,KEN,2 Running Club
+ngvin,Vincent Ngetich,1,m,KEN,no
+ebdan, Daniel Ebenyo,1,m,KEN,no
+chiri,Irine Cheptai,1,w,KEN,no
+maale,"Alex Masai,",1,m,KEN,no
+chloi,Loice Chemnung,1,w,KEN,no
+beken,Kenenisa Bekele,1,m,ETH,no
+caemi,Emile Cairess,1,m,GBR,no
+meale,Alemu Megertu,1,w,ETH,no
+kijac,Jacob Kiplimo,1,m,UGA,no
+mamah,Mahamed Mahamed,1,m,ETH,no
+chhas,Hasan Chadi,1,m,FRA,no
+dehav,"Haven Desse,",1,w,ETH,no

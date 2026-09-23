@@ -1,0 +1,1 @@
+Wir haben für die Datenerhebung ca. 35 Stunden gebraucht.
